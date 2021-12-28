@@ -32,6 +32,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Argentina/Buenos_Aires
+locale: es
 
 include:
   - _pages
