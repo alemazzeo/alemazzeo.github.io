@@ -1,11 +1,9 @@
 main:
   - title: "Blog"
     url: /
-  - title: "Formación"
-    url: /education/
   - title: "Experiencia"
     url: /experience/
-  - title: "Proyectos"
-    url: /portfolio/
+  - title: "Proyectos y Conocimientos"
+    url: /projects/
   - title: "Acerca de mí"
     url: /about/

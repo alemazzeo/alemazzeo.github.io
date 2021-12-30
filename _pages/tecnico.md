@@ -1,0 +1,61 @@
+---
+permalink: /projects/padua
+title: "Técnico Electromecánico"
+toc: true
+---
+
+Mi formación secundaria estuvo orientada a la Producción de Bienes y Servicios.
+Obtuve por ella el título de Técnico electromecánico. Las asignaturas en su
+mayoría tuvieron una fuerte componente de conocimientos relacionados con la
+Física (cálculos de fuerzas, rendimiento, diseño eficiente, cálculos eléctricos, 
+potencia, etc.) y de Programación (C, Visual Basic, CNC, PLC).
+
+Esta etapa de mi vida se vio atravesada por mi formación personal en C++, la
+programación de microcontroladores (como el PIC16F84) en lenguaje Ensamblador,
+un gusto siempre presente por la electrónica y un aspecto central en el resto de
+mi vida académica y laboral: lo que en programación se conoce como "_research_",
+ese momento de sentarse a investigar el estado del arte para un aspecto dado.
+Lo antes mencionado culminó en el desarrollo de un brazo robot de 3 ejes, 
+controlado por una PC con motores y materiales de aluminio y PCV reciclados.
+
+### Talleres de carpintería, ajuste, torneado y soldadura
+
+Cada uno de los talleres que formaron parte de mi aprendizaje incorporaron
+nuevas herramientas y técnicas. Los talleres de carpintería y ajuste centraron
+la atención en el uso de herramientas manuales y la interpretación de planos
+para el desarrollo de piezas concretas. El taller de torneado añadió el uso
+de tornos del tipo paralelo, limadoras, agujeradoras y fresadoras de banco,
+sierra sin fin y rectificadora de banco. En el último año, cumpliendo tareas
+de mantenimiento general se sumo el uso de soldadoras de arco, autógenas y MIG.
+Todos los talleres se vieron atravesados por tareas continuas de orden y
+limpieza.
+
+### Instalaciones eléctricas domiciliarias
+
+Mi formación como técnico eletromecánico incluyó clases teóricas y prácticas
+orientadas al diseño, cálculo y desarrollo de instalaciones eléctricas. El
+taller de electricidad contaba con cubículos con cañería y cajas montadas para
+el montaje de instalaciones. Las conexiones realizadas incluyeron el manejo
+de motores trifásicos en estrella y triángulo mediante reles y contactores. 
+También el diseño y conexionado de tableros eléctricos.
+
+### Electrónica de control y PLC
+
+La lógica de control fue introducida mediante dos enfoques. Por un lado aprendí
+a diseñar circuitos lógicos mediante el uso de relés, incluyendo los conceptos
+necesarios para adaptar dicha lógica a los actuadores requeridos utilizando
+electrónica de potencia. Por otro lado realicé una formación en programación de
+circuítos lógicos programables (PLC).
+
+### Curso de automatización Festo en electroneumática y electrohidráulica
+
+El instituto contaba con todo el material correspondiente al curso de
+electroneumática y electrohidráulica del fabricante Festo. Realicé el diseño
+de diferentes automatismos trasladados del papel al banco de trabajo.
+
+### Curso de diseño 3D en Inventor 2008 y AutoCad
+
+El curso de AutoCad atravesó transversalmente a los talleres antes mencionados.
+Los mayoría de los planos de piezas y diseños eléctricos aprobados en papel
+fueron luego entregados en versión digital. El curso de Inventor (modelado de 
+sólidos en 3D) sirvió como puente para el aprendizaje de SolidWorks.
