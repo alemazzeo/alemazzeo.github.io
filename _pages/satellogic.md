@@ -1,7 +1,6 @@
 ---
 permalink: /projects/ifiba-satellogic
 title: "Caracterización óptica"
-toc: true
 ---
 
 Mi primer trabajo en el ámbito mixto de academia y empresa. Consistió en el

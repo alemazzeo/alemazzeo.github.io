@@ -15,6 +15,8 @@ Consultora Ninja (2020-2022)
 - Refactorización de código existente en Python y aplicación de buenas prácticas
   (coverage, tipado, formato y CI/CD)
 
+[Ver más](/projects/information-extraction){: .btn .btn--primary .btn--small}
+
 ## Desarrollador de software y hardware para Microscopía No Convencional 
 IFIBA - YTEC (2019-2022)
 
@@ -32,6 +34,8 @@ IFIBA - YTEC (2019-2022)
 - Esquema de trabajo agil con reuniones diarias (10 minutos) y semanales (45 minutos)
 - Asistencia técnica en el emplazamiento final del microscopio
 
+[Ver más](/projects/gigapixel){: .btn .btn--primary .btn--small}
+
 ## Desarrollador de software en Python y CUDA 
 Laboratorio de Fotónica - Instituto de Ingeniería Biomédica (2018-2021)
 
@@ -42,6 +46,8 @@ Laboratorio de Fotónica - Instituto de Ingeniería Biomédica (2018-2021)
 - Publicaciones:
   - M. Toscani, A. Mazzeo, S. Martínez, O. Martínez, A. Lacapmesure and G. B. Vazquez, "Fuentes de error, artificios, aceleración y validación del algoritmo de deconvolución con super-resolución para imágenes de microscopía," 2020 IEEE Congreso Bienal de Argentina (ARGENCON), 2020, pp. 1-7, doi: 10.1109/ARGENCON49523.2020.9505479.
   - (Próximamente) Combining deep learning with SUPPOSe and Compressed Sensing for SNR-enhanced localization of overlapping emitters
+
+[Ver más](/projects/pysuppose){: .btn .btn--primary .btn--small}
 
 ## Desarrollador de software en Python y CUDA 
 Agrix (2019-2020)
@@ -60,6 +66,8 @@ IFIBA - Satellogic (2018)
 - Caracterización del rayo de luz incidente
 - Adquisición de imágenes con la cámara y la lente barriendo los posibles ángulos de incidencia
 
+[Ver más](/projects/ifiba-satellogic){: .btn .btn--primary .btn--small}
+
 ## Docente - Ayudante de Segunda  
 Facultad de Ciencias Exactas y Naturales - UBA (2020-2021)
 
@@ -75,8 +83,10 @@ Estudio Gianatelli (2012-2015)
 - Dibujo asistido por computadora (AutoCAD)
 - Calculos de potencia requerida y diseño de tableros
 
+[Ver más](/projects/gianatelli){: .btn .btn--primary .btn--small}
+
 ## Técnico Electromecánico 
-Instituto técnico San Antonio de Padua (2005-2010)
+Instituto técnico San Antonio de Padua (2005-2010) 
 
 - Talleres de carpintería, ajuste, torneado y soldadura
 - Instalaciones eléctricas domiciliarias
@@ -84,5 +94,9 @@ Instituto técnico San Antonio de Padua (2005-2010)
 - Curso de automatización Festo en electroneumática y electrohidráulica
 - Curso de diseño 3D en Inventor 2008
 - Curso de de AutoCad
+
+[Ver más](/projects/padua){: .btn .btn--primary .btn--small}
+
+
 
 
