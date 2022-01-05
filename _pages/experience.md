@@ -4,6 +4,9 @@ title: "Experiencia"
 toc: true
 ---
 
+[Descargar CV](/assets/CV_Linkedin.pdf){: .btn .btn--info}
+{: .text-right}
+
 ## Desarrollador de software en Python
 Consultora Ninja (2020-2022)
 
