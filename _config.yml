@@ -61,11 +61,8 @@ plugins:
 author:
   name   : "Alejandro Mazzeo"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Estudiante avanzado de Física en la Universidad de Buenos Aires. Programador desde que tengo memoria (de los 8MB de ram de la i486 en adelante)."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://alemazzeo.github.io/"
     - label: "Email"
       icon: "fa fa-fw fa-envelope-square"
       url: "mailto:ale.exactas@gmail.com"
@@ -74,19 +71,19 @@ author:
       url: "https://github.com/alemazzeo"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "/"
+      url: "https://www.linkedin.com/in/alejandro-mazzeo/"
 
 footer:
   links:
+    - label: "Email"
+      icon: "fa fa-fw fa-envelope-square"
+      url: "mailto:ale.exactas@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/alemazzeo"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AleMazzeo92"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "/"
+      url: "https://www.linkedin.com/in/alejandro-mazzeo/"
 
 defaults:
   # _posts

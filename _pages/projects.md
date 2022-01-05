@@ -20,34 +20,34 @@ feature_row:
     alt: "Microscopio de Pticografía de Fourier"
     title: "Gigapixel"
     excerpt: "Un microscopio de Pticografía de Fourier. Diseño, construcción, electrónica, drivers, interfaz de control y visualizador."
-    url: "#test-link"
+    url: "/projects/gigapixel"
     btn_label: "Leer más"
     btn_class: "btn--primary"
   - image_path: assets/images/information_extraction.png
     title: "Information Extraction"
     excerpt: "Un framework de trabajo orientado a técnicas de Procesamiento del Lenguaje Natural (NLP) en español."
-    url: "#test-link"
+    url: "/projects/information-extraction"
     btn_label: "Leer más"
     btn_class: "btn--primary"
   - image_path: assets/images/catmu.png
     alt: "Catmu"
     title: "CaTMU"
     excerpt: 'Una solución en Python + CUDA para acelerar deconvoluciones en GPU utilizando la Unidad de Mapeo de Texturas (TMU)'
-    url: "#test-link"
+    url: "/projects/catmu"
     btn_label: "Leer más"
     btn_class: "btn--primary"
   - image_path: assets/images/arduscope.png
     alt: "Arduscope"
     title: "Arduscope"
     excerpt: 'La interfaz para Arduino + Python que imita comportamientos característicos de un osciloscopio. Probada en clases a distancia.'
-    url: "#test-link"
+    url: "/projects/arduscope"
     btn_label: "Leer más"
     btn_class: "btn--primary"
   - image_path: assets/images/pokemon-showdown.png
     alt: "Pokemon"
     title: "PS Adventure MOD"
     excerpt: 'Un mod para convertir el Pokemon Showdown en una aventura. Retroingeniería aplicada y mucho aprendizaje.'
-    url: "#test-link"
+    url: "/projects/pokemon"
     btn_label: "Leer más"
     btn_class: "btn--primary"
 ---

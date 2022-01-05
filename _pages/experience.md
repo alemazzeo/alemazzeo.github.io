@@ -7,13 +7,13 @@ toc: true
 ## Desarrollador de software en Python
 Consultora Ninja (2020-2022)
 
-- Preprocesamiento de datos para algoritmos de Machine Learning. 
-  Tratamiento de datos crudos y volcado en una base de datos SQLite
-- Diseño y desarrollo de una interfaz Web para el etiquetado de datos
 - Desarrollo de un software para experimentación en Procesamiento del Lenguaje Natural
 - Manager del repositorio del proyecto
 - Refactorización de código existente en Python y aplicación de buenas prácticas
   (coverage, tipado, formato y CI/CD)
+- Diseño y desarrollo de una interfaz Web para el etiquetado de datos
+- Preprocesamiento de datos para algoritmos de Machine Learning. 
+  Tratamiento de datos crudos y volcado en una base de datos SQLite
 
 [Ver más](/projects/information-extraction){: .btn .btn--primary .btn--small}
 
@@ -52,10 +52,10 @@ Laboratorio de Fotónica - Instituto de Ingeniería Biomédica (2018-2021)
 ## Desarrollador de software en Python y CUDA 
 Agrix (2019-2020)
 
-- Desarrollo de software en Python para la adquisición de imágenes 3D con almacenamiento en HDF5
 - Preprocesamiento por técnicas de Computer Vision en una placa Nvidia Jetson Nano
 - Implementación de una cascada de filtros en CUDA con interfaz a Python (Ctypes)
 - Procesamiento de datos mediante Redes Neuronales
+- Desarrollo de software en Python para la adquisición de imágenes 3D con almacenamiento en HDF5
 - Mantenimiento remoto (SSH) de los equipos de medición desplegados
 
 ## Asistencia Técnica en Microscopía y Programación
