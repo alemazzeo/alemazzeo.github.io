@@ -40,7 +40,7 @@ feature_row:
     alt: "Arduscope"
     title: "Arduscope"
     excerpt: 'La interfaz para Arduino + Python que imita comportamientos característicos de un osciloscopio. Probada en clases a distancia.'
-    url: "/projects/arduscope"
+    url: "https://alemazzeo.github.io/arduscope/"
     btn_label: "Leer más"
     btn_class: "btn--primary"
   - image_path: assets/images/pokemon-showdown.png

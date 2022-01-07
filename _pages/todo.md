@@ -5,16 +5,12 @@ title: "Tareas pendientes"
 
 # Proyectos
 
-- [ ] Arduscope
+- [x] Arduscope
 - [ ] Catmu
-- [ ] Gigapixel
-- [ ] Information Extraction
+- [x] Gigapixel
+- [x] Information Extraction
 - [ ] Pokemon
 - [x] PySuppose
-
-# Experiencia
-
-- [ ] 
 
 # Blog
 
