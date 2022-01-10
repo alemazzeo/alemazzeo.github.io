@@ -1,6 +1,9 @@
 ---
 permalink: /projects/information-extraction
 title: "Information Extraction"
+categories: Proyectos Experiencia
+tags: Python Tensorflow Spacy NLP
+hidden: true
 ---
 
 Una buena práctica al finalizar y entregar un proyecto es revisar lo aprendido.

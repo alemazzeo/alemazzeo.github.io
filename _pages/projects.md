@@ -53,20 +53,20 @@ feature_row:
 ---
 
 <div style="text-align: center; margin-bottom: 25px">
-    <img class="btn btn--light-outline" title="Python" alt="Python" src="/assets/images/python-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="C" alt="C" src="/assets/images/c-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="C++" alt="Cplusplus" src="/assets/images/cplusplus-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="TypeScript" alt="TypeScript" src="/assets/images/typescript-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="TypeScript" alt="TypeScript" src="/assets/images/javascript-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="CUDA" alt="CUDA" src="/assets/images/Cuda.png" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="Tensorflow" alt="Tensorflow" src="/assets/images/tensorflow-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="Arduino" alt="Arduino" src="/assets/images/arduino-original-wordmark.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="Docker" alt="Docker" src="/assets/images/docker-original-wordmark.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="SQL Alchemy" alt="SQL Alchemy" src="/assets/images/sqlalchemy-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="NodeJS" alt="NodeJS" src="/assets/images/nodejs-original-wordmark.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="Flask" alt="Flask" src="/assets/images/flask-original-wordmark.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="Django" alt="Django" src="/assets/images/django-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
-    <img class="btn btn--light-outline" title="Bootstrap" alt="Bootstrap" src="/assets/images/bootstrap-plain-wordmark.svg" width="75px" style="padding: 5px; border-color: transparent!important;">
+    <a href="/tags/#python"><img class="btn btn--light-outline" title="Python" alt="Python" src="/assets/images/python-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#c"><img class="btn btn--light-outline" title="C" alt="C" src="/assets/images/c-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#c++"><img class="btn btn--light-outline" title="C++" alt="Cplusplus" src="/assets/images/cplusplus-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#typescript"><img class="btn btn--light-outline" title="TypeScript" alt="TypeScript" src="/assets/images/typescript-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#javascript"><img class="btn btn--light-outline" title="JavaScript" alt="JavaScript" src="/assets/images/javascript-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#cuda"><img class="btn btn--light-outline" title="CUDA" alt="CUDA" src="/assets/images/Cuda.png" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#tensorflow"><img class="btn btn--light-outline" title="Tensorflow" alt="Tensorflow" src="/assets/images/tensorflow-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#arduino"><img class="btn btn--light-outline" title="Arduino" alt="Arduino" src="/assets/images/arduino-original-wordmark.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#docker"><img class="btn btn--light-outline" title="Docker" alt="Docker" src="/assets/images/docker-original-wordmark.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#sqlalchemy"><img class="btn btn--light-outline" title="SQL Alchemy" alt="SQL Alchemy" src="/assets/images/sqlalchemy-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#nodejs"><img class="btn btn--light-outline" title="NodeJS" alt="NodeJS" src="/assets/images/nodejs-original-wordmark.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#flask"><img class="btn btn--light-outline" title="Flask" alt="Flask" src="/assets/images/flask-original-wordmark.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#django"><img class="btn btn--light-outline" title="Django" alt="Django" src="/assets/images/django-original.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
+    <a href="/tags/#bootstrap"><img class="btn btn--light-outline" title="Bootstrap" alt="Bootstrap" src="/assets/images/bootstrap-plain-wordmark.svg" width="75px" style="padding: 5px; border-color: transparent!important;"></a>
 </div>
 
 {% include feature_row %}

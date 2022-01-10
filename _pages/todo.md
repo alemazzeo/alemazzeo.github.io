@@ -6,7 +6,7 @@ title: "Tareas pendientes"
 # Proyectos
 
 - [x] Arduscope
-- [ ] Catmu
+- [x] Catmu
 - [x] Gigapixel
 - [x] Information Extraction
 - [ ] Pokemon

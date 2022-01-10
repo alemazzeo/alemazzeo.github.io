@@ -2,6 +2,10 @@
 permalink: /projects/gianatelli
 title: "Proyección eléctrica"
 toc: true
+hidden: true
+category: Experiencia
+tags: Electricidad Autocad
+
 ---
 
 Mi primer empleo fue el de proyectista, principalmente como dibujante en AutoCAD

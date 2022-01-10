@@ -1,7 +1,22 @@
 ---
 permalink: /projects/gigapixel
 title: "Gigapixel"
+categories: Proyectos Experiencia
+tags: 
+  - Python 
+  - C
+  - Docker
+  - JavaScript 
+  - TypeScript 
+  - Flask 
+  - Bootstrap
+  - Arduino 
+  - Electrónica 
+  - Tornería 
+  - Taller 
+  - Óptica
 toc: true
+hidden: true
 ---
 
 El proyecto desde su origen consistió en el diseño y desarrollo de un

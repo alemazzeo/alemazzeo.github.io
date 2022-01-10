@@ -2,6 +2,9 @@
 permalink: /projects/pysuppose
 title: "PySuppose"
 toc: true
+hidden: true
+categories: Proyectos Experiencia
+tags: Python CUDA
 ---
 
 ### Estar en el lugar correcto, en el momento correcto

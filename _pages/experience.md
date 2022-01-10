@@ -4,8 +4,8 @@ title: "Experiencia"
 toc: true
 ---
 
-[Descargar CV](/assets/CV_Linkedin.pdf){: .btn .btn--info}
-{: .text-right}
+Descargar Curriculum ([español](/assets/CV_Mazzeo_Alejandro.pdf) / 
+[inglés](/assets/Resume_Mazzeo_Alejandro.pdf))
 
 ## Desarrollador de software en Python
 Consultora Ninja (2020-2022)

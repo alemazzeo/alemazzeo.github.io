@@ -1,6 +1,9 @@
 ---
 permalink: /projects/ifiba-satellogic
 title: "Caracterización óptica"
+hidden: true
+categories: Experiencia
+tags: Python Óptica Arduino Ctypes C
 ---
 
 Mi primer trabajo en el ámbito mixto de academia y empresa. Consistió en el
